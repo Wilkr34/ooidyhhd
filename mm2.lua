@@ -31,7 +31,7 @@ local CONFIG = {
 
 	-- AUTO-REJOIN
 	AutoRejoin = true,
-	ScriptUrl = "https://pastebin.com/raw/H7piRYUp",
+	ScriptUrl = "https://raw.githubusercontent.com/Wilkr34/ooidyhhd/refs/heads/main/mm2.lua",
 	ScriptFile = "MM2AutoFarm.lua",
 	HopRetryDelay = 8,
 	HopOnKick = true,
